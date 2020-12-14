@@ -1,0 +1,6 @@
+{
+    "region": "us-east-2",
+    "instance_type" : "t2.micro",
+    "php_version": "74" 
+  
+}
